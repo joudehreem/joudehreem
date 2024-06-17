@@ -1,5 +1,6 @@
 # 💫 About Me:
-Reem Joudeh <br>Full Stack Developer
+Reem Joudeh <br>Hi, I'm Reem Joudeh! I'm a passionate Full Stack Developer with a love for building innovative and efficient solutions.
+
 
 ## 🌐 Socials:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/joudehreem) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/joudehreem) [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:joudehreem@gmail.com)
