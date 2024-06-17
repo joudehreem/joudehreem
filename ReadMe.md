@@ -1,6 +1,7 @@
 # 💫 About Me:
-Reem Joudeh <br>Full Stack Devloper
-
+### Hi there 👋, Reem Joudeh
+#### Full Stack Developer 
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/gmail.svg' alt='gmail' height='40'>](joudehreem@gmail.com)  
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/joudehreem) 
