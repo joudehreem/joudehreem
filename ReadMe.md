@@ -1,5 +1,5 @@
 # 💫 About Me:
-Reem Joudeh <br>Hi, I'm Reem Joudeh! I'm a passionate Full Stack Developer with a love for building innovative and efficient solutions.
+Hi, I'm Reem Joudeh! I'm a passionate Full Stack Developer with a love for building innovative and efficient solutions.
 
 
 ## 🌐 Socials:
